@@ -2,8 +2,8 @@ Body {
     background: url("../Images/cloud\ backgorund\ copy.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
-
 }
+
 .tableauheader {
     left: 5px;
     right: 5px;
@@ -35,10 +35,12 @@ Body {
     color: blue;
 }
 
+
 a:hover {
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-decoration: underline;
 }
+
 
 
 
