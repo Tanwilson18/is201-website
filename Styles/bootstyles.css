@@ -1,0 +1,41 @@
+Body {
+    background: url("../Images/cloud\ backgorund\ copy.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.tableauheader {
+    left: 5px;
+    right: 5px;
+    bottom: 5px;
+    height: 200px;
+    font-size: 24px;
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+}
+
+
+.tableaufooter {
+    left: 5px;
+    right: 5px;
+    bottom: 5px;
+    height: 30px;
+    font-size: 24px;
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+    position: fixed;
+}
+
+.tableaubody2 {
+    text-align: center;
+    color: blue;
+}
+
+a:hover {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}

@@ -1,0 +1,46 @@
+body{
+    background-color: hsl(40, 15%, 84%);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.video{
+    margin-left: 200px;
+
+
+}
+
+.anchor{
+    text-align: center;
+}
+
+.list{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    list-style-type: circle;
+
+}
+.interests{
+    text-align: center; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.favshoes{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.column{
+    float: left;
+    width: 33.33%
+    padding 5px;
+}
+.row::after{
+    align-items: center;
+    content: "";
+    clear:both;
+    display: table;
+}
+
+a:hover {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
